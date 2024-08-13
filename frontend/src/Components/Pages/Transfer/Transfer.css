@@ -1,0 +1,17 @@
+.Transfer {
+    
+}
+
+.averageCalc {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.averageCalc>div {
+    border: 3px;
+    border-color: black;
+    box-shadow: 2px 2px 2px;
+    margin: 10px;
+    border-radius: 3px;
+}
